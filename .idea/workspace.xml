@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="907c6690-ec34-41ce-ad38-99e241f1dda6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/2019Maven/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bUPNFB4bwFTqtkCc2FyH5vqfbS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6784661" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Intellij IDEA-workspace\UserBehaviorAnalysised\NetworktrafficAnalysis\src\main\resources" />
+      <recent name="E:\Intellij IDEA-workspace\UserBehaviorAnalysised\HotItemsAnalysis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrderTimeOut">
+    <configuration name="HotItems" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.foo.HotItems" />
+      <module name="HotItemsAnalysis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFail" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.foo.LoginFail" />
+      <module name="LoginFailDetect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFailCEP (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzf.LoginFailCEP" />
+      <module name="LoginFailDetect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFailCEP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.foo.LoginFailCEP" />
+      <module name="LoginFailDetect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTimeOut" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.foo.OrderTimeOut" />
+      <module name="OrderTimeOutDetect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64283" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderTimeOut" />
+        <item itemvalue="Application.LoginFailCEP (1)" />
+        <item itemvalue="Application.HotItems" />
+        <item itemvalue="Application.LoginFailCEP" />
+        <item itemvalue="Application.LoginFail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="907c6690-ec34-41ce-ad38-99e241f1dda6" name="Default Changelist" comment="" />
+      <created>1588683656977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588683656977</updated>
+      <workItem from="1588683660409" duration="7747000" />
+      <workItem from="1588735585362" duration="6651000" />
+      <workItem from="1588742653623" duration="7388000" />
+      <workItem from="1588765536584" duration="14448000" />
+      <workItem from="1588828733416" duration="2506000" />
+      <workItem from="1588838177818" duration="279000" />
+      <workItem from="1588846199703" duration="5823000" />
+      <workItem from="1588948191385" duration="236000" />
+      <workItem from="1589062433301" duration="2388000" />
+      <workItem from="1589098868140" duration="3076000" />
+      <workItem from="1589360443796" duration="531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="21" key="#Project_Structure" timestamp="1589099153726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="278" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588683847982" />
+    <state x="234" y="21" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589099153726" />
+    <state x="415" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588847472279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588847472279" />
+    <state x="487" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1588776997584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588776997584" />
+    <state x="306" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588683911185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="306" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1588683911185" />
+    <state x="552" y="12" key="CommitChangelistDialog2" timestamp="1589361367598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589361367598" />
+    <state x="522" y="143" key="FileChooserDialogImpl" timestamp="1589361277360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588948432024" />
+    <state x="522" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589361277360" />
+    <state width="1478" height="219" key="GridCell.Tab.0.bottom" timestamp="1589247449796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1286" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588850560651" />
+    <state width="1478" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589247449796" />
+    <state width="1478" height="219" key="GridCell.Tab.0.center" timestamp="1589247449795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1286" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588850560650" />
+    <state width="1478" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589247449795" />
+    <state width="1478" height="219" key="GridCell.Tab.0.left" timestamp="1589247449795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1286" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588850560650" />
+    <state width="1478" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589247449795" />
+    <state width="1478" height="219" key="GridCell.Tab.0.right" timestamp="1589247449796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1286" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588850560650" />
+    <state width="1478" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589247449796" />
+    <state x="210" y="10" key="SettingsEditor" timestamp="1589098973238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="187" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588683973495" />
+    <state x="210" y="10" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589098973238" />
+    <state x="396" y="202" width="540" height="524" key="StructurePopup" timestamp="1588688879825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="202" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1588688879825" />
+    <state x="398" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1589361250742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="354" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588846199659" />
+    <state x="398" y="208" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589361250742" />
+    <state x="73" y="131" key="new project wizard" timestamp="1588852183751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="73" y="131" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588852183751" />
+  </component>
+</project>
